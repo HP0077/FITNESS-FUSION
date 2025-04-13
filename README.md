@@ -13,3 +13,7 @@ MADE USING (   PHP   ,   HTML    ,  JAVASCRIPT  ),
 
 
 DATABASE (MYSQL).
+
+
+FOR REFERENCE:
+![image](https://github.com/user-attachments/assets/0d805b19-7b37-45fb-be95-0f41af7424fd)
